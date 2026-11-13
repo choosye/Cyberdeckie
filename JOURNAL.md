@@ -17,7 +17,7 @@
 1. [2026-11-11: Starting off Cyberdeckie](#2026-11-11-starting-off-cyberdeckie)
 2. [2026-11-10: Making the schematic for power parts; the big learning point](#2026-11-10-making-the-schematic-for-power-parts-the-big-lear)
 3. [2026-11-10: 10/11: Completing the schematic](#2026-11-10-1011-completing-the-schematic)
-4. [2026-11-13: 11/11: PCB Editing time!!!](#2026-11-13-1111-pcb-editing-time)
+4. [2026-11-11: 11/11: PCB Editing time!!!](#2026-11-11-1111-pcb-editing-time)
 5. [2026-11-11: 11/11: Finishing up the PCB YAYYYY](#2026-11-11-1111-finishing-up-the-pcb-yayyyy)
 6. [2026-11-12: 12/11: ROUTING TIME!](#2026-11-12-1211-routing-time)
 7. [2026-11-13: 13/11: Last last session to really complete the PCB](#2026-11-13-1311-last-last-session-to-really-complete-the-pcb)
@@ -86,7 +86,7 @@ After the long long keyboard session, I went back to the RPi page to add a shutd
 ![CyberdeckieSS15](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/5d7098733db69552f1c5ffddb019358d7e67a9e343f2b3ee36a2951a1e65da8b.png)
 After that, I ran the DRC to make sure everything was okay and yay omg no errors I love it! I also decided to run the 'annotate schematic' to make sure everything is labelled nicely and neatly :)
 
-### 2026-11-13: 11/11: PCB Editing time!!!
+### 2026-11-11: 11/11: PCB Editing time!!!
 
 **6.5h**
 
