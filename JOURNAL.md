@@ -16,7 +16,7 @@
 
 1. [2026-11-11: Starting off Cyberdeckie](#2026-11-11-starting-off-cyberdeckie)
 2. [2026-11-12: Making the schematic for power parts; the big learning point](#2026-11-12-making-the-schematic-for-power-parts-the-big-lear)
-3. [2026-11-13: 10/11: Completing the schematic](#2026-11-13-1011-completing-the-schematic)
+3. [2026-11-10: 10/11: Completing the schematic](#2026-11-10-1011-completing-the-schematic)
 4. [2026-11-13: 11/11: PCB Editing time!!!](#2026-11-13-1111-pcb-editing-time)
 5. [2026-11-11: 11/11: Finishing up the PCB YAYYYY](#2026-11-11-1111-finishing-up-the-pcb-yayyyy)
 6. [2026-11-12: 12/11: ROUTING TIME!](#2026-11-12-1211-routing-time)
@@ -67,7 +67,7 @@ Lastly, I decided to clean up my power page and labels too bc some of them were 
 
 Really didn’t expect to spend so so much time with this page but i definitely did learn a lot. In the end, a lot of time was spent finding which symbols and labels to connect with the pins and also fixing mistakes made.
 
-### 2026-11-13: 10/11: Completing the schematic
+### 2026-11-10: 10/11: Completing the schematic
 
 **4h**
 
