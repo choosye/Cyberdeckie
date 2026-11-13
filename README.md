@@ -17,6 +17,9 @@ A clamshell handheld Linux terminal built around a Raspberry Pi Zero 2 W, with a
 - 3 status LEDs (charging, USB connected, power)
 - Serial debug header for when the screen/keyboard aren't working yet
 
+## PCB
+<img width="741" height="536" alt="Screenshot 2026-11-14 at 12 39 57 AM" src="https://github.com/user-attachments/assets/d3b179cd-85ac-4ebe-9d6a-483ef232a0d9" />
+
 ## How it works
 
 Power: USB-C (5.1k CC resistors) → BQ24074 charger/power-path → VSYS → TPS61023 boost → +5 V for the Pi and display. The slide switch controls the boost converter's EN pin.
