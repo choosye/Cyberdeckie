@@ -16,7 +16,7 @@
 
 1. [2026-11-11: Starting off Cyberdeckie](#2026-11-11-starting-off-cyberdeckie)
 2. [2026-11-12: Making the schematic for power parts; the big learning point](#2026-11-12-making-the-schematic-for-power-parts-the-big-lear)
-3. [2026-11-13: Completing the schematic](#2026-11-13-completing-the-schematic)
+3. [2026-11-13: 12/11: Completing the schematic](#2026-11-13-1211-completing-the-schematic)
 4. [2026-11-13: PCB Editing time!!!](#2026-11-13-pcb-editing-time)
 5. [2026-11-13: Finishing up the PCB YAYYYY](#2026-11-13-finishing-up-the-pcb-yayyyy)
 6. [2026-11-13: ROUTING TIME!](#2026-11-13-routing-time)
@@ -67,11 +67,11 @@ Lastly, I decided to clean up my power page and labels too bc some of them were 
 
 Really didn’t expect to spend so so much time with this page but i definitely did learn a lot. In the end, a lot of time was spent finding which symbols and labels to connect with the pins and also fixing mistakes made.
 
-### 2026-11-13: Completing the schematic
+### 2026-11-13: 12/11: Completing the schematic
 
 **4h**
 
-Completing the schematic
+12/11: Completing the schematic
 
 ![CyberdeckieSS11](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/84b5c2a9b224ce31fe62632b3f52df5e59aac00276f64e2e3ef865d4a0925559.png)
 After doing up the power page, I moved on to making the schematic for the display, which was fairly simple.
