@@ -18,7 +18,7 @@
 2. [2026-11-12: Making the schematic for power parts; the big learning point](#2026-11-12-making-the-schematic-for-power-parts-the-big-lear)
 3. [2026-11-13: 10/11: Completing the schematic](#2026-11-13-1011-completing-the-schematic)
 4. [2026-11-13: 11/11: PCB Editing time!!!](#2026-11-13-1111-pcb-editing-time)
-5. [2026-11-13: Finishing up the PCB YAYYYY](#2026-11-13-finishing-up-the-pcb-yayyyy)
+5. [2026-11-13: 11/11: Finishing up the PCB YAYYYY](#2026-11-13-1111-finishing-up-the-pcb-yayyyy)
 6. [2026-11-13: ROUTING TIME!](#2026-11-13-routing-time)
 7. [2026-11-13: Last last session to really complete the PCB](#2026-11-13-last-last-session-to-really-complete-the-pcb)
 
@@ -115,11 +115,11 @@ Actually forgot B.cu existed so I was like omg do I have to place the diodes rig
 ![Screenshot 2026-11-12 at 11.06.47 PM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/a01f1793acb59e22c26c0dd9556678e739f3b70f8d1958f801eafd98548853e1.png)
 After getting the base keyboard down, I added in the rest of the larger components like the FPC connector, RPi connector and battery stuff. Did not want to touch the power components bc I did not know how I was supposed to do those and they were so much smaller than I imagined.
 
-### 2026-11-13: Finishing up the PCB YAYYYY
+### 2026-11-13: 11/11: Finishing up the PCB YAYYYY
 
 **4h**
 
-Finishing up the PCB YAYYYY
+11/11: Finishing up the PCB YAYYYY
 
 ![Screenshot 2026-11-12 at 11.06.47 PM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/7e6f95be77bea47f5202057126684dd43daf8e3816404dea4ccda3149211e0e7.png)
 First off, I added every single component into the PCB (except the Rs and Cs!) , since I left some out the last session. Had the power components on the B.cu so that everything would be neater! Plus, they weren't needed on the front side anyway.
