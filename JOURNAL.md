@@ -10,11 +10,11 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 2 | 31.75h | 7 |
+| Week 5 | Tier 2 | 32.75h | 7 |
 
 ## Contents
 
-1. [2026-11-11: Starting off Cyberdeckie](#2026-11-11-starting-off-cyberdeckie)
+1. [2026-11-09: Starting off Cyberdeckie](#2026-11-09-starting-off-cyberdeckie)
 2. [2026-11-10: Making the schematic for power parts; the big learning point](#2026-11-10-making-the-schematic-for-power-parts-the-big-lear)
 3. [2026-11-10: 10/11: Completing the schematic](#2026-11-10-1011-completing-the-schematic)
 4. [2026-11-11: 11/11: PCB Editing time!!!](#2026-11-11-1111-pcb-editing-time)
@@ -24,9 +24,9 @@
 
 ## Design
 
-### 2026-11-11: Starting off Cyberdeckie
+### 2026-11-09: Starting off Cyberdeckie
 
-**3h**
+**4h**
 
 Starting off Cyberdeckie
 
