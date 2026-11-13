@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-11-11: Starting off Cyberdeckie](#2026-11-11-starting-off-cyberdeckie)
-2. [2026-11-12: Making the schematic for power parts; the big learning point](#2026-11-12-making-the-schematic-for-power-parts-the-big-lear)
+2. [2026-11-10: Making the schematic for power parts; the big learning point](#2026-11-10-making-the-schematic-for-power-parts-the-big-lear)
 3. [2026-11-10: 10/11: Completing the schematic](#2026-11-10-1011-completing-the-schematic)
 4. [2026-11-13: 11/11: PCB Editing time!!!](#2026-11-13-1111-pcb-editing-time)
 5. [2026-11-11: 11/11: Finishing up the PCB YAYYYY](#2026-11-11-1111-finishing-up-the-pcb-yayyyy)
@@ -38,7 +38,7 @@ First off, I had to pick which parts to use for my cyberdeckie. It took a consid
 ![CyberdeckieSS2](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/b63535db0581c10d96b573f7700ba5df39539bf234f320aa7e1378937f9d4a25.png)
 Started on the schematic!! For this project, I made multiple pages, grouping them into RPi, Power, Display and Keyboard. Started with the Raspberry Pi and added the net labels.
 
-### 2026-11-12: Making the schematic for power parts; the big learning point
+### 2026-11-10: Making the schematic for power parts; the big learning point
 
 **5.75h**
 
