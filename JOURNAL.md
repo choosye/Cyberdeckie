@@ -19,7 +19,7 @@
 3. [2026-11-13: 10/11: Completing the schematic](#2026-11-13-1011-completing-the-schematic)
 4. [2026-11-13: 11/11: PCB Editing time!!!](#2026-11-13-1111-pcb-editing-time)
 5. [2026-11-13: 11/11: Finishing up the PCB YAYYYY](#2026-11-13-1111-finishing-up-the-pcb-yayyyy)
-6. [2026-11-13: ROUTING TIME!](#2026-11-13-routing-time)
+6. [2026-11-13: 12/11: ROUTING TIME!](#2026-11-13-1211-routing-time)
 7. [2026-11-13: Last last session to really complete the PCB](#2026-11-13-last-last-session-to-really-complete-the-pcb)
 
 ## Design
@@ -137,11 +137,11 @@ Ran the DRC and um..... Too many violations? Yeah so I googled it and apparently
 ![Screenshot 2026-11-13 at 3.13.36 PM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/e9b584115a4ff941d296f820a99f387e05672dc0c2f129fed0b99154afddefb3.png)
 I focused on completing the design of the PCB for this session so yay done after!
 
-### 2026-11-13: ROUTING TIME!
+### 2026-11-13: 12/11: ROUTING TIME!
 
 **6h**
 
-ROUTING TIME!
+12/11: ROUTING TIME!
 
 Oohohohoh routing routing routing, the big boss. This one really took a toll on me TT^TT since there was so much to route for this project. (So far, they've been pretty simple since I'd just been following the guide).
 
