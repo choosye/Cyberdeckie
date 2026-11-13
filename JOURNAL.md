@@ -20,7 +20,7 @@
 4. [2026-11-13: 11/11: PCB Editing time!!!](#2026-11-13-1111-pcb-editing-time)
 5. [2026-11-13: 11/11: Finishing up the PCB YAYYYY](#2026-11-13-1111-finishing-up-the-pcb-yayyyy)
 6. [2026-11-13: 12/11: ROUTING TIME!](#2026-11-13-1211-routing-time)
-7. [2026-11-13: Last last session to really complete the PCB](#2026-11-13-last-last-session-to-really-complete-the-pcb)
+7. [2026-11-13: 13/11: Last last session to really complete the PCB](#2026-11-13-1311-last-last-session-to-really-complete-the-pcb)
 
 ## Design
 
@@ -164,11 +164,11 @@ Oh gosh ran into so many problems with this project. For this screenshot above, 
 ![Screenshot 2026-11-13 at 6.38.53 PM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/430d1424650820eefba7e46754f5234831a90c2b6e5a0f7a83b2ef625cb0f8f0.png)
 Kinda forgot to take more screenshots so this is already after quite a while but some context here anyway: When I was trying to route all of the pins, especially those at the power components, I couldn't route them because they were all blocked by the multiple gnd tracks... It was so so so annoying but I still worked my way around it somehow(?) although it was really messy. However, there were 1 or 2 pins that just couldn't move because it was blocked by everything around and I couldn't swap it to F.cu either cos there was just not enough space. So, I googled a little here and there and of course I realised I didn't need to connect all of the gnd pads because there's a thing called gnd pour (week 1...) sigh so yeah I painstakingly removed all of the gnd connections to make sure I could route everything else first. And it worked so so so much better. Yes, it does still look messy, but at least they connect!
 
-### 2026-11-13: Last last session to really complete the PCB
+### 2026-11-13: 13/11: Last last session to really complete the PCB
 
 **2.5h**
 
-Last last session to really complete the PCB
+13/11: Last last session to really complete the PCB
 
 ![Screenshot 2026-11-13 at 6.46.24 PM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/151417c05c34a8951801b8f0d5136700d057917ced42da1553499471e9bce7ba.png)
 After routing what I thought was needed (excluding gnd) I went ahead with the ERC and found a few pads still unconnected so I went ahead and did that until only the gnd pads were left so that I could finally do the gnd pour.
