@@ -22,7 +22,7 @@
 6. [2026-11-12: 12/11: ROUTING TIME!](#2026-11-12-1211-routing-time)
 7. [2026-11-13: 13/11: Last last session to really complete the PCB](#2026-11-13-1311-last-last-session-to-really-complete-the-pcb)
 8. [2026-11-13: 13/11: Last stretch! Finding and creating the BOM](#2026-11-13-1311-last-stretch-finding-and-creating-the-bom)
-9. [2026-11-13: Creating the Tray](#2026-11-13-creating-the-tray)
+9. [2026-11-13: Creating the Enclosure](#2026-11-13-creating-the-enclosure)
 
 ## Design
 
@@ -197,11 +197,11 @@ First, I exported the necessary files (gerbers) from kicad and then put it into 
 This one wow ok it is the most I've done for any project, so I had a lot of components to find.
 Luckily though, a lot of components could be found in LCSC so that was good! I spent a great amount of time finding each component with the correct specifications and also had to make sure they weren't too expensive.
 
-### 2026-11-13: Creating the Tray
+### 2026-11-13: Creating the Enclosure
 
 **2h**
 
-Creating the Tray
+Creating the Enclosure
 
 ![Screenshot 2026-11-14 at 6.46.09 AM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/b0d2f709acd949c5e2a4973027ffb28c8a9251c0194697caa9118c890da95a70.png)
 Added in the PCB so that I could easily get the right dimensions!
@@ -211,5 +211,8 @@ I decided to make a really simple tray to just hold the PCB since I didn't have 
 
 ![Screenshot 2026-11-14 at 7.06.29 AM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/02d5f9c747f7ee6807e4fc3960f3478528e904698cbbf52cefa380892048c213.png)
 Added in pillars/screws for the PCB to go on through its mounting holes so that it'd sit snugly and not move around too much.
+
+![Screenshot 2026-11-14 at 8.05.10 AM](https://halflife.hackclub-assets.com/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/c462de1a427755ceafa4ebf05c3dfd567c548754200cbdd41a17f7cd54dcbf57.png)
+Added the lid for the display and that's the minimum for the enclosure so yay done!!
 
 Planning to revise the design in the future but I just needed to make it exist first!
